@@ -6,3 +6,7 @@ vite, react-swc, tailwindcss
 bun install
 bun run dev
 ```
+
+# Todo
+- add shadcn ui
+- add folder structure
